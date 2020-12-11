@@ -1,0 +1,271 @@
+Z1 bags contain 1 T0 bag.
+Z2 bags contain 1 T0 bag.
+Z3 bags contain 1 T0 bag.
+Z4 bags contain 1 T0 bag.
+Z5 bags contain 1 T0 bag.
+Z6 bags contain 1 T0 bag.
+Z7 bags contain 1 T0 bag.
+Z8 bags contain 1 T0 bag.
+Z9 bags contain 1 T0 bag.
+Z10 bags contain 1 T0 bag.
+Z11 bags contain 1 T0 bag.
+Z12 bags contain 1 T0 bag.
+Z13 bags contain 1 T0 bag.
+Z14 bags contain 1 T0 bag.
+Z15 bags contain 1 T0 bag.
+Z16 bags contain 1 T0 bag.
+Z17 bags contain 1 T0 bag.
+Z18 bags contain 1 T0 bag.
+Z19 bags contain 1 T0 bag.
+Z20 bags contain 1 T0 bag.
+Z21 bags contain 1 T0 bag.
+Z22 bags contain 1 T0 bag.
+Z23 bags contain 1 T0 bag.
+Z24 bags contain 1 T0 bag.
+Z25 bags contain 1 T0 bag.
+Z26 bags contain 1 T0 bag.
+Z27 bags contain 1 T0 bag.
+Z28 bags contain 1 T0 bag.
+Z29 bags contain 1 T0 bag.
+Z30 bags contain 1 T0 bag.
+Z31 bags contain 1 T0 bag.
+Z32 bags contain 1 T0 bag.
+Z33 bags contain 1 T0 bag.
+Z34 bags contain 1 T0 bag.
+Z35 bags contain 1 T0 bag.
+Z36 bags contain 1 T0 bag.
+Z37 bags contain 1 T0 bag.
+Z38 bags contain 1 T0 bag.
+Z39 bags contain 1 T0 bag.
+Z40 bags contain 1 T0 bag.
+Z41 bags contain 1 T0 bag.
+Z42 bags contain 1 T0 bag.
+Z43 bags contain 1 T0 bag.
+Z44 bags contain 1 T0 bag.
+Z45 bags contain 1 T0 bag.
+Z46 bags contain 1 T0 bag.
+Z47 bags contain 1 T0 bag.
+Z48 bags contain 1 T0 bag.
+Z49 bags contain 1 T0 bag.
+Z50 bags contain 1 T0 bag.
+Z51 bags contain 1 T0 bag.
+Z52 bags contain 1 T0 bag.
+Z53 bags contain 1 T0 bag.
+Z54 bags contain 1 T0 bag.
+Z55 bags contain 1 T0 bag.
+Z56 bags contain 1 T0 bag.
+Z57 bags contain 1 T0 bag.
+Z58 bags contain 1 T0 bag.
+Z59 bags contain 1 T0 bag.
+Z60 bags contain 1 T0 bag.
+Z61 bags contain 1 T0 bag.
+Z62 bags contain 1 T0 bag.
+Z63 bags contain 1 T0 bag.
+Z64 bags contain 1 T0 bag.
+Z65 bags contain 1 T0 bag.
+Z66 bags contain 1 T0 bag.
+Z67 bags contain 1 T0 bag.
+Z68 bags contain 1 T0 bag.
+Z69 bags contain 1 T0 bag.
+Z70 bags contain 1 T0 bag.
+Z71 bags contain 1 T0 bag.
+Z72 bags contain 1 T0 bag.
+Z73 bags contain 1 T0 bag.
+Z74 bags contain 1 T0 bag.
+Z75 bags contain 1 T0 bag.
+Z76 bags contain 1 T0 bag.
+Z77 bags contain 1 T0 bag.
+Z78 bags contain 1 T0 bag.
+Z79 bags contain 1 T0 bag.
+Z80 bags contain 1 T0 bag.
+Z81 bags contain 1 T0 bag.
+Z82 bags contain 1 T0 bag.
+Z83 bags contain 1 T0 bag.
+Z84 bags contain 1 T0 bag.
+Z85 bags contain 1 T0 bag.
+Z86 bags contain 1 T0 bag.
+Z87 bags contain 1 T0 bag.
+Z88 bags contain 1 T0 bag.
+Z89 bags contain 1 T0 bag.
+Z90 bags contain 1 T0 bag.
+Z91 bags contain 1 T0 bag.
+Z92 bags contain 1 T0 bag.
+Z93 bags contain 1 T0 bag.
+Z94 bags contain 1 T0 bag.
+Z95 bags contain 1 T0 bag.
+Z96 bags contain 1 T0 bag.
+Z97 bags contain 1 T0 bag.
+Z98 bags contain 1 T0 bag.
+Z99 bags contain 1 T0 bag.
+Z100 bags contain 1 T0 bag.
+T0 bags contain 1 V0 bag.
+U0 bags contain 1 V0 bag.
+V0 bags contain 1 T1 bag, 1 U1 bag.
+T1 bags contain 1 V1 bag.
+U1 bags contain 1 V1 bag.
+V1 bags contain 1 T2 bag, 1 U2 bag.
+T2 bags contain 1 V2 bag.
+U2 bags contain 1 V2 bag.
+V2 bags contain 1 T3 bag, 1 U3 bag.
+T3 bags contain 1 V3 bag.
+U3 bags contain 1 V3 bag.
+V3 bags contain 1 T4 bag, 1 U4 bag.
+T4 bags contain 1 V4 bag.
+U4 bags contain 1 V4 bag.
+V4 bags contain 1 T5 bag, 1 U5 bag.
+T5 bags contain 1 V5 bag.
+U5 bags contain 1 V5 bag.
+V5 bags contain 1 T6 bag, 1 U6 bag.
+T6 bags contain 1 V6 bag.
+U6 bags contain 1 V6 bag.
+V6 bags contain 1 T7 bag, 1 U7 bag.
+T7 bags contain 1 V7 bag.
+U7 bags contain 1 V7 bag.
+V7 bags contain 1 T8 bag, 1 U8 bag.
+T8 bags contain 1 V8 bag.
+U8 bags contain 1 V8 bag.
+V8 bags contain 1 T9 bag, 1 U9 bag.
+T9 bags contain 1 V9 bag.
+U9 bags contain 1 V9 bag.
+V9 bags contain 1 T10 bag, 1 U10 bag.
+T10 bags contain 1 V10 bag.
+U10 bags contain 1 V10 bag.
+V10 bags contain 1 T11 bag, 1 U11 bag.
+T11 bags contain 1 V11 bag.
+U11 bags contain 1 V11 bag.
+V11 bags contain 1 T12 bag, 1 U12 bag.
+T12 bags contain 1 V12 bag.
+U12 bags contain 1 V12 bag.
+V12 bags contain 1 T13 bag, 1 U13 bag.
+T13 bags contain 1 V13 bag.
+U13 bags contain 1 V13 bag.
+V13 bags contain 1 T14 bag, 1 U14 bag.
+T14 bags contain 1 V14 bag.
+U14 bags contain 1 V14 bag.
+V14 bags contain 1 T15 bag, 1 U15 bag.
+T15 bags contain 1 V15 bag.
+U15 bags contain 1 V15 bag.
+V15 bags contain 1 T16 bag, 1 U16 bag.
+T16 bags contain 1 V16 bag.
+U16 bags contain 1 V16 bag.
+V16 bags contain 1 T17 bag, 1 U17 bag.
+T17 bags contain 1 V17 bag.
+U17 bags contain 1 V17 bag.
+V17 bags contain 1 T18 bag, 1 U18 bag.
+T18 bags contain 1 V18 bag.
+U18 bags contain 1 V18 bag.
+V18 bags contain 1 T19 bag, 1 U19 bag.
+T19 bags contain 1 V19 bag.
+U19 bags contain 1 V19 bag.
+V19 bags contain 1 T20 bag, 1 U20 bag.
+T20 bags contain 1 V20 bag.
+U20 bags contain 1 V20 bag.
+V20 bags contain 1 T21 bag, 1 U21 bag.
+T21 bags contain 1 V21 bag.
+U21 bags contain 1 V21 bag.
+V21 bags contain 1 T22 bag, 1 U22 bag.
+T22 bags contain 1 V22 bag.
+U22 bags contain 1 V22 bag.
+V22 bags contain 1 T23 bag, 1 U23 bag.
+T23 bags contain 1 V23 bag.
+U23 bags contain 1 V23 bag.
+V23 bags contain 1 T24 bag, 1 U24 bag.
+T24 bags contain 1 V24 bag.
+U24 bags contain 1 V24 bag.
+V24 bags contain 1 T25 bag, 1 U25 bag.
+T25 bags contain 1 V25 bag.
+U25 bags contain 1 V25 bag.
+V25 bags contain 1 T26 bag, 1 U26 bag.
+T26 bags contain 1 V26 bag.
+U26 bags contain 1 V26 bag.
+V26 bags contain 1 T27 bag, 1 U27 bag.
+T27 bags contain 1 V27 bag.
+U27 bags contain 1 V27 bag.
+V27 bags contain 1 shiny gold bag.
+shiny gold bags contain 1 A2 bag, 1 B2 bag.
+A0 bags contain 1 C0 bag.
+B0 bags contain 1 C0 bag.
+C0 bags contain 1 A1 bag, 1 B1 bag.
+A1 bags contain 1 C1 bag.
+B1 bags contain 1 C1 bag.
+C1 bags contain 1 A2 bag, 1 B2 bag.
+A2 bags contain 1 C2 bag.
+B2 bags contain 1 C2 bag.
+C2 bags contain 1 A3 bag, 1 B3 bag.
+A3 bags contain 1 C3 bag.
+B3 bags contain 1 C3 bag.
+C3 bags contain 1 A4 bag, 1 B4 bag.
+A4 bags contain 1 C4 bag.
+B4 bags contain 1 C4 bag.
+C4 bags contain 1 A5 bag, 1 B5 bag.
+A5 bags contain 1 C5 bag.
+B5 bags contain 1 C5 bag.
+C5 bags contain 1 A6 bag, 1 B6 bag.
+A6 bags contain 1 C6 bag.
+B6 bags contain 1 C6 bag.
+C6 bags contain 1 A7 bag, 1 B7 bag.
+A7 bags contain 1 C7 bag.
+B7 bags contain 1 C7 bag.
+C7 bags contain 1 A8 bag, 1 B8 bag.
+A8 bags contain 1 C8 bag.
+B8 bags contain 1 C8 bag.
+C8 bags contain 1 A9 bag, 1 B9 bag.
+A9 bags contain 1 C9 bag.
+B9 bags contain 1 C9 bag.
+C9 bags contain 1 A10 bag, 1 B10 bag.
+A10 bags contain 1 C10 bag.
+B10 bags contain 1 C10 bag.
+C10 bags contain 1 A11 bag, 1 B11 bag.
+A11 bags contain 1 C11 bag.
+B11 bags contain 1 C11 bag.
+C11 bags contain 1 A12 bag, 1 B12 bag.
+A12 bags contain 1 C12 bag.
+B12 bags contain 1 C12 bag.
+C12 bags contain 1 A13 bag, 1 B13 bag.
+A13 bags contain 1 C13 bag.
+B13 bags contain 1 C13 bag.
+C13 bags contain 1 A14 bag, 1 B14 bag.
+A14 bags contain 1 C14 bag.
+B14 bags contain 1 C14 bag.
+C14 bags contain 1 A15 bag, 1 B15 bag.
+A15 bags contain 1 C15 bag.
+B15 bags contain 1 C15 bag.
+C15 bags contain 1 A16 bag, 1 B16 bag.
+A16 bags contain 1 C16 bag.
+B16 bags contain 1 C16 bag.
+C16 bags contain 1 A17 bag, 1 B17 bag.
+A17 bags contain 1 C17 bag.
+B17 bags contain 1 C17 bag.
+C17 bags contain 1 A18 bag, 1 B18 bag.
+A18 bags contain 1 C18 bag.
+B18 bags contain 1 C18 bag.
+C18 bags contain 1 A19 bag, 1 B19 bag.
+A19 bags contain 1 C19 bag.
+B19 bags contain 1 C19 bag.
+C19 bags contain 1 A20 bag, 1 B20 bag.
+A20 bags contain 1 C20 bag.
+B20 bags contain 1 C20 bag.
+C20 bags contain 1 A21 bag, 1 B21 bag.
+A21 bags contain 1 C21 bag.
+B21 bags contain 1 C21 bag.
+C21 bags contain 1 A22 bag, 1 B22 bag.
+A22 bags contain 1 C22 bag.
+B22 bags contain 1 C22 bag.
+C22 bags contain 1 A23 bag, 1 B23 bag.
+A23 bags contain 1 C23 bag.
+B23 bags contain 1 C23 bag.
+C23 bags contain 1 A24 bag, 1 B24 bag.
+A24 bags contain 1 C24 bag.
+B24 bags contain 1 C24 bag.
+C24 bags contain 1 A25 bag, 1 B25 bag.
+A25 bags contain 1 C25 bag.
+B25 bags contain 1 C25 bag.
+C25 bags contain 1 A26 bag, 1 B26 bag.
+A26 bags contain 1 C26 bag.
+B26 bags contain 1 C26 bag.
+C26 bags contain 1 A27 bag, 1 B27 bag.
+A27 bags contain 1 C27 bag.
+B27 bags contain 1 C27 bag.
+C27 bags contain 1 A28 bag, 1 B28 bag.
+A28 bags contain no other bag.
+B28 bags contain no other bag.

@@ -1,2 +1,7 @@
 # aoc_2020
-Advent Of Code 2020  Python
+Advent of Code: https://adventofcode.com/ - Python Solution
+
+```sh
+cd dayxx
+python3 solution.py input.txt
+```
