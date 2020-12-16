@@ -1,4 +1,6 @@
 import sys
+
+
 def get_solution_1(input):
     map_ = {}
     for num in input:
@@ -6,6 +8,7 @@ def get_solution_1(input):
             return (2020-num)*num
         else:
             map_[num] = True
+
 
 def get_solution_2(input):
     for num in input:
@@ -17,6 +20,7 @@ def get_solution_2(input):
                 return (sum_to_match-num2)*num2*num
             else:
                 map_[num2] = True
+
 
 if len(sys.argv) < 2:
     print("Please enter input file in argument")

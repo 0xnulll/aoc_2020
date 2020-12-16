@@ -1,8 +1,10 @@
 from parse import *
 import sys
+
+
 def get_solution_1(input):
-    diff = { 1: 1, 3: 1 }
-    for i in range(1,len(input)):
+    diff = {1: 1, 3: 1}
+    for i in range(1, len(input)):
         dif = input[i] - input[i-1]
         diff[dif] += 1
     return diff[1] * diff[3]
@@ -13,7 +15,7 @@ def get_solution_2(input):
     n = len(input)
     cache = [0] * n
     cache[0] = 1
-    for i in range(1,n):
+    for i in range(1, n):
         if i-1 >= 0 and input[i] - input[i-1] <= 3:
             cache[i] += cache[i-1]
         if i-2 >= 0 and input[i] - input[i-2] <= 3:
@@ -24,7 +26,8 @@ def get_solution_2(input):
 
 
 def process_input(input):
-    return list(map(int, input.split("\n") ) )
+    return list(map(int, input.split("\n")))
+
 
 if len(sys.argv) < 2:
     print("Please enter input file in argument")
