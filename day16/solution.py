@@ -22,10 +22,9 @@ def get_solution_1(ranges, tickets, your_tickets):
 
 
 def get_solution_2(ranges, tickets, your_tickets):
-    result = 1
-    max_len = len(ranges.keys())
-    total_rows = len(tickets)
+    result, max_len,total_rows = 1, len(ranges.keys()), len(tickets)
     possible_mapping = defaultdict(set)
+    used_types = set()
     for i in range(max_len):
         for key, item in ranges.items():
             total = 0
@@ -40,11 +39,9 @@ def get_solution_2(ranges, tickets, your_tickets):
 
     for i in range(max_len):
         index, key = list(filter(lambda x: len(
-            x[1]) == 1, possible_mapping.items()))[0]
-        key = key.pop()
-        for k, item in possible_mapping.items():
-            if key in item:
-                item.remove(key)
+            x[1] - used_types) == 1, possible_mapping.items()))[0]
+        key = (key - used_types).pop()
+        used_types.add(key)
         if key.startswith("departure"):
             result *= your_tickets[index]
     return result
