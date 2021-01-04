@@ -23,11 +23,11 @@ def get_solution_2(game):
     def combat(gme):
         cache = set()
         while True:
-            t1, t2 = tuple(gme[1]), tuple(gme[2])
-            if t1 in cache or t2 in cache:
+            t = tuple(gme[1]), tuple(gme[2])
+            if t in cache:
                 return 1
-            cache.add(t1)
-            cache.add(t2)
+            cache.add(t)
+
             p1 = gme[1].pop(0)
             p2 = gme[2].pop(0)
             winner = 0
